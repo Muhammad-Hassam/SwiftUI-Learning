@@ -245,6 +245,3 @@ func fetUserName(){
     let firstCharIsLowCase = (userName?.first?.isLowercase) ?? false
     let count2: Int = userName!.count
 }
-
-
-let
