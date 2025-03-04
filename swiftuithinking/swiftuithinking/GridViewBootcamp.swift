@@ -1,10 +1,3 @@
-//
-//  GridViewBootcamp.swift
-//  swiftuithinking
-//
-//  Created by Hassam Shaikh on 03/03/2025.
-//
-
 import SwiftUI
 
 struct GridViewBootcamp: View {
@@ -60,6 +53,8 @@ struct GridViewBootcamp: View {
         }
     }
 }
+
+
 #Preview {
     GridViewBootcamp()
 }
